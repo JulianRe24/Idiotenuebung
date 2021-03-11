@@ -12,7 +12,7 @@ namespace Idiotenuebung
         {
             Console.WriteLine("Moin");
             Console.WriteLine("Moin");
-            Console.WriteLine("Schlemmer hat starke Oberarme");
+            Console.WriteLine("Schlemmer hat starke Oberarme, denkt Fabian");
             Console.ReadKey();
         }
     }
