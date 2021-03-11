@@ -11,6 +11,7 @@ namespace Idiotenuebung
         static void Main(string[] args)
         {
             Console.WriteLine("Moin");
+            Console.WriteLine("Moin");
             Console.ReadKey();
         }
     }
